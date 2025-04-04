@@ -1,4 +1,4 @@
-# Ethan Lawrence 
+# Matthew hall 
 # Feb 12 2025
 # Pygame template ver 2
 
